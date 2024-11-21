@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">18 ПРАКТИКА</string>
+    <string name="cat_british">Британская короткошерстная кошка: дружелюбная и спокойная.</string>
+    <string name="cat_siamese">Сиамская кошка: элегантная и общительная.</string>
+    <string name="dog_german">Немецкая овчарка: умная и верная.</string>
+    <string name="dog_labrador">Лабрадор: энергичный и ласковый.</string>
+
+    <string name="cat_general">Кошка: дружелюбное домашнее животное.</string>
+    <string name="dog_general">Собака: верный друг человека.</string>
+    <string name="unknown_animal">Неизвестное животное.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
